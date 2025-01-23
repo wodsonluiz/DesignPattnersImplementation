@@ -16,7 +16,7 @@ Crie esse repositório para ir explorar todos eles
     - Prototype :white_check_mark:
 - **Structural**
     - Adapter :white_check_mark:
-    - Bridge :construction:
+    - Bridge :white_check_mark:
     - Decorator :construction:
     - Composite :construction:
     - Facade :construction:
