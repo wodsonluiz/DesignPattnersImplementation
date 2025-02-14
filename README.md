@@ -18,7 +18,7 @@ Crie esse repositório para ir explorar todos eles
     - Adapter :white_check_mark:
     - Bridge :white_check_mark:
     - Decorator :white_check_mark:
-    - Composite :construction:
+    - Composite :white_check_mark:
     - Facade :construction:
     - Proxy :construction:
     - Flyweight :construction:
