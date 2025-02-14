@@ -1,4 +1,7 @@
 ## Design Patternrs Implementation
+
+![andromeda2](https://github.com/user-attachments/assets/783b35b4-c1a0-4a6f-b0d9-a9c1ad49292c)
+
 Padrões de projeto (design patterns) são soluções típicas para problemas comuns em projeto de software. 
 Cada padrão é como uma planta de construção que você pode customizar para resolver um problema de projeto particular em seu código.
 Crie esse repositório para ir explorar todos eles
