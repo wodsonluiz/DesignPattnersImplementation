@@ -22,7 +22,7 @@ Crie esse repositório para ir explorar todos eles
     - Bridge :white_check_mark:
     - Decorator :white_check_mark:
     - Composite :white_check_mark:
-    - Facade :construction:
+    - Facade :white_check_mark:
     - Proxy :construction:
     - Flyweight :construction:
 - **Behavioral**
