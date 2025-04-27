@@ -1,5 +1,8 @@
 ## Padrões de Projeto em .net
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/wodsonluiz/DesignPattnersImplementation/dotnet.yml)
+
+
 ![andromeda2](https://github.com/user-attachments/assets/783b35b4-c1a0-4a6f-b0d9-a9c1ad49292c)
 
 Padrões de projeto (design patterns) são soluções típicas para problemas comuns em projeto de software. 
