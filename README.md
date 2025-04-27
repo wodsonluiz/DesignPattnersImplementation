@@ -23,7 +23,7 @@ Crie esse repositório para ir explorar todos eles
     - Decorator :white_check_mark:
     - Composite :white_check_mark:
     - Facade :white_check_mark:
-    - Proxy :construction:
+    - Proxy :white_check_mark:
     - Flyweight :construction:
 - **Behavioral**
     - Template Method :construction:
