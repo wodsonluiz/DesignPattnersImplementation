@@ -29,7 +29,7 @@ Crie esse repositório para ir explorar todos eles
     - Composite :white_check_mark:
     - Facade :white_check_mark:
     - Proxy :white_check_mark:
-    - Flyweight :construction:
+    - Flyweight :white_check_mark:
 - **Behavioral**
     - Template Method :construction:
     - Strategy :construction:
