@@ -31,7 +31,7 @@ Crie esse repositório para ir explorar todos eles
     - Proxy :white_check_mark:
     - Flyweight :white_check_mark:
 - **Behavioral**
-    - Template Method :construction:
+    - Template Method :white_check_mark:
     - Strategy :construction:
     - Command :construction:
     - Memento :construction:
