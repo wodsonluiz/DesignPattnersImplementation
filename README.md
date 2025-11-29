@@ -32,7 +32,7 @@ Crie esse repositório para ir explorar todos eles
     - Flyweight :white_check_mark:
 - **Behavioral**
     - Template Method :white_check_mark:
-    - Strategy :construction:
+    - Strategy :white_check_mark:
     - Command :construction:
     - Memento :construction:
     - Mediator :construction:
