@@ -33,7 +33,7 @@ Crie esse repositório para ir explorar todos eles
 - **Behavioral**
     - Template Method :white_check_mark:
     - Strategy :white_check_mark:
-    - Command :construction:
+    - Command :white_check_mark:
     - Memento :construction:
     - Mediator :construction:
     - Chain of Responsability :construction:
