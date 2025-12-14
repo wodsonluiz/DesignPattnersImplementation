@@ -34,7 +34,7 @@ Crie esse repositório para ir explorar todos eles
     - Template Method :white_check_mark:
     - Strategy :white_check_mark:
     - Command :white_check_mark:
-    - Memento :construction:
+    - Memento :white_check_mark:
     - Mediator :construction:
     - Chain of Responsability :construction:
     - Observer :construction:
