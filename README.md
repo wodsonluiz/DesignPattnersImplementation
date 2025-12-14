@@ -35,7 +35,7 @@ Crie esse repositório para ir explorar todos eles
     - Strategy :white_check_mark:
     - Command :white_check_mark:
     - Memento :white_check_mark:
-    - Mediator :construction:
+    - Mediator :white_check_mark:
     - Chain of Responsability :construction:
     - Observer :construction:
     - State :construction:
