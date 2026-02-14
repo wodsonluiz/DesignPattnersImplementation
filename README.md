@@ -37,7 +37,7 @@ Crie esse repositório para ir explorar todos eles
     - Memento :white_check_mark:
     - Mediator :white_check_mark:
     - Chain of Responsability :white_check_mark:
-    - Observer :construction:
+    - Observer :white_check_mark:
     - State :construction:
     - Iterator :construction:
     - Visitor :construction:
