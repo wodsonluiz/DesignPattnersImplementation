@@ -39,9 +39,9 @@ Crie esse repositório para ir explorar todos eles
     - Chain of Responsability :white_check_mark:
     - Observer :white_check_mark:
     - State :white_check_mark:
-    - Iterator :construction:
-    - Visitor :construction:
-    - Interpreter :construction:
+    - Iterator :white_check_mark:
+    - Visitor :white_check_mark:
+    - Interpreter :white_check_mark:
 - **Enterprise (Infrastructure)**
-    - Repository :construction:
-    - Unit of Work :construction:
+    - Repository :white_check_mark:
+    - Unit of Work :white_check_mark:
