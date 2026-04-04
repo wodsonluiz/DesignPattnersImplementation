@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ] # ou o branch principal do seu projeto
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main" ] 
 
 jobs:
   analyze:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       actions: read
-      contents: read
+      contents: read 
       security-events: write
 
     strategy:
@@ -27,7 +27,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: '8.0.x'
+        dotnet-version: '10.0.x'
 
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v3
