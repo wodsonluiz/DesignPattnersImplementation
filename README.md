@@ -38,7 +38,7 @@ Crie esse repositório para ir explorar todos eles
     - Mediator :white_check_mark:
     - Chain of Responsability :white_check_mark:
     - Observer :white_check_mark:
-    - State :construction:
+    - State :white_check_mark:
     - Iterator :construction:
     - Visitor :construction:
     - Interpreter :construction:
