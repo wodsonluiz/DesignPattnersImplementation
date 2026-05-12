@@ -42,6 +42,6 @@ Crie esse repositório para ir explorar todos eles
     - Iterator :white_check_mark:
     - Visitor :white_check_mark:
     - Interpreter :white_check_mark:
-- **Enterprise (Infrastructure)**
+- **Enterprise (Compartilha mesma pasta Repository)** 
     - Repository :white_check_mark:
     - Unit of Work :white_check_mark:
