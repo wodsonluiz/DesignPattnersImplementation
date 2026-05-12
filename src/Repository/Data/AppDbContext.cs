@@ -6,6 +6,7 @@ namespace Repository.Data
     public class AppDbContext : DbContext
     {
         public DbSet<Product> Products => Set<Product>();
+        public DbSet<Category> Categories => Set<Category>();
 
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
@@ -24,6 +25,15 @@ namespace Repository.Data
 
                 entity.Property(x => x.Price)
                     .HasPrecision(10, 2);
+            });
+
+            modelBuilder.Entity<Category>(entity =>
+            {
+                entity.HasKey(x => x.Id);
+
+                entity.Property(x => x.Name)
+                    .HasMaxLength(150)
+                    .IsRequired();
             });
         }
     }
